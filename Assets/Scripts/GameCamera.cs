@@ -26,4 +26,4 @@ public class GameCamera : MonoBehaviour
 }
 
 
-//un comentario para la prueba de github
+//un comentario para la prueba de github 1
