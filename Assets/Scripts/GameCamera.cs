@@ -24,3 +24,6 @@ public class GameCamera : MonoBehaviour
         transform.position += Vector3.right * speed * Time.deltaTime;
     }
 }
+
+
+//un comentario para la prueba de github
